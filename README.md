@@ -3,3 +3,5 @@ A secret-knock based door security system, with an arduino (with audio sensor, b
 connected to a raspberry pi (with camera and buttons) via serial.
 
 For specific pins for components, see constants at tops of files
+
+See also: https://youtu.be/hQ966WrlCwg
